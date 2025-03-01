@@ -1,0 +1,25 @@
+/*This sets all the padding and margins to 0px. This makes the maths when using padding and margin later in the styling easier*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    /*Background colour chosen from https://htmlcolorcodes.com/colors/shades-of-gray/*/
+    background-color: rgb(178, 190, 181);
+  }
+
+#center-div {
+    /*Background colour chosen from https://htmlcolorcodes.com/colors/shades-of-gray/*/
+    background-color: rgb(229, 228, 226);
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+  }
+
+  #content {
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    padding-top: 0.5%;
+  }
