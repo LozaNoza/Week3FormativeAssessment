@@ -6,8 +6,7 @@ Some things shown here will be
     -Basic JS which I have learnt so far
     -Creating a repsotiory using GitHub and managing it using Git
 
-Update 2/03/2025
-Website updates
+Update 2/03/2025 Website updates
     -Created x3 branches for basic styling, creating a userName prompt and updating the read me
     -Added CSS styling in style.css for the HTML document
     -Added content to the index.html HTML document to see styling and the java script promt printing to content
